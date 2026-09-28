@@ -156,6 +156,7 @@ Open the project notebooks and run the cells in order.
 Charity Nduati
 
 GitHub: https://github.com/CharityNduati
+
 Portfolio: DecodeLabs Data Science & Analytics Internship
 
 ## 📄 License

@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.zip
+.env
+__pycache__/

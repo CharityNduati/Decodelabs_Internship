@@ -2,7 +2,7 @@
 
 Welcome to the central repository for the DecodeLabs Data Science & Analytics Internship. This portfolio demonstrates an end-to-end data analytics and machine learning workflow, covering exploratory data analysis, database design, predictive modeling, and natural language processing.
 
-📌 Executive Summary
+## 📌 Executive Summary
 
 This repository contains four structured technical projects focused on transforming raw transactional and text data into useful insights:
 
@@ -10,7 +10,8 @@ Project 1: Exploratory Data Analysis (EDA) & Data Cleaning
 Project 2: Database Design, Star Schema & SQL Analytics
 Project 3: Customer Segmentation & Machine Learning
 Project 4: Natural Language Processing (NLP) & Sentiment Analysis
-📁 Repository Structure
+
+## 📁 Repository Structure
 Decodelabs_Internship/
 ├── .gitignore
 ├── README.md
@@ -30,13 +31,14 @@ NLP: NLTK, TF-IDF
 Database & Analytics: SQL
 Version Control: Git, GitHub
 Development: VS Code, Jupyter Notebook
-## 🚀 Projects Overview
-🔹 Project 1: Exploratory Data Analysis & Data Cleaning
 
-Objective:
+## 🚀 Projects Overview
+## 🔹 Project 1: Exploratory Data Analysis & Data Cleaning
+
+## Objective:
 Explore and prepare the retail transaction dataset for analysis and machine learning.
 
-Key Methodology:
+## Key Methodology:
 
 Inspected the structure and quality of the dataset.
 Identified missing values and handled them appropriately.
@@ -51,12 +53,13 @@ Cleaned dataset
 Exploratory analysis
 Data quality findings
 Business insights
-🔹 Project 2: Database Design, Star Schema & SQL Analytics
 
-Objective:
+## 🔹 Project 2: Database Design, Star Schema & SQL Analytics
+
+## Objective:
 Transform the retail dataset into a structured relational database that supports business intelligence and SQL analysis.
 
-Key Methodology:
+## Key Methodology:
 
 Designed a relational database structure.
 Applied star schema concepts.
@@ -70,12 +73,13 @@ Database schema
 SQL queries
 Business intelligence analysis
 Analytical insights
-🔹 Project 3: Customer Segmentation & Machine Learning
 
-Objective:
+## 🔹 Project 3: Customer Segmentation & Machine Learning
+
+## Objective:
 Use unsupervised machine learning to identify groups of customers based on their purchasing behavior.
 
-Key Methodology:
+## Key Methodology:
 
 Created customer-level features from transaction data.
 Standardized numerical features using StandardScaler.
@@ -91,12 +95,13 @@ PCA analysis
 Cluster evaluation
 Customer personas
 Business recommendations
-🔹 Project 4: Natural Language Processing (NLP) & Sentiment Analysis
 
-Objective:
+## 🔹 Project 4: Natural Language Processing (NLP) & Sentiment Analysis
+
+## Objective:
 Demonstrate an end-to-end NLP pipeline for processing text and classifying sentiment.
 
-Key Methodology:
+## Key Methodology:
 
 Cleaned and normalized text data.
 Used custom stop-word filtering while retaining important negation words such as not, no, and never.

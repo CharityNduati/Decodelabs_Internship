@@ -1,4 +1,4 @@
-DecodeLabs Internship — Data Science & Predictive Analytics Portfolio
+# DecodeLabs Internship — Data Science & Predictive Analytics Portfolio
 
 Welcome to the central repository for the DecodeLabs Data Science & Analytics Internship. This portfolio demonstrates an end-to-end data analytics and machine learning workflow, covering exploratory data analysis, database design, predictive modeling, and natural language processing.
 
@@ -21,7 +21,7 @@ Decodelabs_Internship/
 
 Note: Raw datasets and model files are excluded from Git tracking through .gitignore.
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 Language: Python
 Data Processing: pandas, numpy
 Data Visualization: matplotlib, seaborn
@@ -30,7 +30,7 @@ NLP: NLTK, TF-IDF
 Database & Analytics: SQL
 Version Control: Git, GitHub
 Development: VS Code, Jupyter Notebook
-🚀 Projects Overview
+## 🚀 Projects Overview
 🔹 Project 1: Exploratory Data Analysis & Data Cleaning
 
 Objective:
@@ -45,7 +45,7 @@ Checked numerical variables for outliers.
 Performed univariate, bivariate, and multivariate analysis.
 Created visualizations to understand sales, customers, products, discounts, and returns.
 
-Key Deliverables:
+### Key Deliverables:
 
 Cleaned dataset
 Exploratory analysis
@@ -64,7 +64,7 @@ Separated transaction data from supporting dimension tables.
 Used SQL queries for business analysis.
 Applied aggregations and window functions to analyze customer and sales activity.
 
-Key Deliverables:
+### Key Deliverables:
 
 Database schema
 SQL queries
@@ -84,7 +84,7 @@ Used the Elbow Method and Silhouette Score to evaluate different cluster sizes.
 Applied K-Means clustering.
 Interpreted the resulting clusters as customer personas.
 
-Key Deliverables:
+### Key Deliverables:
 
 Customer segmentation model
 PCA analysis
@@ -109,7 +109,7 @@ Complement Naive Bayes
 Linear SVM
 Evaluated the models using accuracy, precision, recall, and F1-score.
 
-Key Deliverables:
+### Key Deliverables:
 
 Text preprocessing pipeline
 TF-IDF feature matrix
@@ -119,14 +119,14 @@ Sentiment analysis results
 
 Note: The original retail dataset did not contain customer review text. Synthetic review text was therefore created from the available transaction information to demonstrate the NLP pipeline. The results should be interpreted as a demonstration of the workflow rather than as a measure of real customer sentiment.
 
-🚦 How to Run Locally
+## 🚦 How to Run Locally
 1. Clone the Repository
 git clone https://github.com/CharityNduati/Decodelabs_Internship.git
 cd Decodelabs_Internship
 2. Create a Virtual Environment
 python -m venv venv
 
-Activate the environment on Windows:
+## Activate the environment on Windows:
 
 venv\Scripts\activate
 3. Install Dependencies
@@ -146,12 +146,13 @@ jupyter notebook
 
 Open the project notebooks and run the cells in order.
 
-👤 Author
+## 👤 Author
 
 Charity Nduati
 
 GitHub: https://github.com/CharityNduati
 Portfolio: DecodeLabs Data Science & Analytics Internship
-📄 License
+
+## 📄 License
 
 This repository is licensed under the MIT License and is intended for learning and educational purposes.
